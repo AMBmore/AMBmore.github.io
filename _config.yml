@@ -1,0 +1,22 @@
+title: "Your Name — Technical & Content Writer"
+email: your.email@example.com
+description: "Technical writer, UX content strategist."
+baseurl: "" # leave blank for user site; use "/repo-name" for project sites
+url: "https://your-username.github.io"
+
+# Use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minimal site navigation example
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Work"
+    url: /work/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
